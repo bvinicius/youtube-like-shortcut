@@ -1,0 +1,23 @@
+{
+  "manifest_version": 2,
+  "name": "Youtube Like Shortcut",
+  "description": "Just press Q to like a video on Youtube :)",
+  "version": "0.0.0.1",
+  "icons": {
+    "16": "assets/icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://youtube.com/*",
+        "http://youtube.com/*",
+        "https://www.youtube.com/*",
+        "http://www.youtube.com/*"
+      ],
+      "js": ["./src/index.js"]
+    }
+  ],
+  "browser_action": {
+    "default_icon": "./assets/icon.png"
+  }
+}
