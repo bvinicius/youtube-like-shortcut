@@ -8,6 +8,8 @@
 4. Click on **Load unpacked** and select this projetc's root folder
 5. Test you new shortcut by clicking [here](https://www.youtube.com/watch?v=XfR9iY5y94s) :)
 
+I'm sorry that you can't just add this extension on Chrome Web Store, but I don't want to pay USS $5 to deploy it...
+
 ### Usage
 
 In any youtube video, just press the key **Q** to like a video. There's no dislike shortcut because we only spread love :)
