@@ -11,3 +11,7 @@
 ### Usage
 
 In any youtube video, just press the key **Q** to like a video. There's no dislike shortcut because we only spread love :)
+
+#### Why the Q key?
+
+Because it's easy to press when only your left hand is over the keyboard.
