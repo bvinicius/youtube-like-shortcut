@@ -10,4 +10,4 @@
 
 ### Usage
 
-In any youtube video, just press the key Q to like a video. There's no dislike shortcut because we only spread likes :)
+In any youtube video, just press the key **Q** to like a video. There's no dislike shortcut because we only spread love :)
