@@ -1,8 +1,8 @@
-# Youtube Like Shortcut
+# 👍 Youtube Like Shortcut 👍 
 
 ### Installation
 
-If you want to use this extension, unfortunately you're gonna need to install it manually, because there's an one time $5 fee to deploy the extensions on Chrome Web Store and I just don't want to pay for it now :(
+This extension is for you that always wanted to like a youtube video just by pressing **Q**.
 
 To use this extension, follow these steps:
 1. Clone this project
@@ -10,10 +10,8 @@ To use this extension, follow these steps:
 4. After enabling developer mode, click on **Load unpacked** and select this projetc's root folder
 5. Test your new shortcut by clicking [here](https://www.youtube.com/watch?v=XfR9iY5y94s) :)
 
+**Feel free to subit pull requests!**
+
 ### Usage
 
-In any youtube video, just press the key **Q** to like a video. There's no dislike shortcut because we only spread love :)
-
-#### Why the Q key?
-
-Because it's easy to press when only your left hand is over the keyboard.
+In any youtube video, literally just press the key **Q** to like a video. There's no dislike shortcut because we only spread love ❤️
