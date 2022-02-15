@@ -15,4 +15,4 @@ To use this extension, follow these steps:
 
 ### Usage
 
-In any youtube video, literally just press the key **Q** to like a video. There's no dislike shortcut because we only spread love ❤️
+In any youtube video, literally just press the key **Q** to give it a thumbs up. There's no dislike shortcut because we only spread love ❤️
