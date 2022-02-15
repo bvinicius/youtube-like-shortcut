@@ -1,10 +1,14 @@
-window.addEventListener("keypress", (event) => {
-  if (event.key == "q") {
-    const $like = document.querySelector("ytd-video-primary-info-renderer")
-      .children[0].children[5].children[2].children[0].children[0].children[0]
-      .children[0];
-    if ($like) {
-      $like.click();
+window.onload = () => {
+  document.addEventListener("keypress", (event) => {
+    const likeButtons = [
+      ...document.querySelectorAll(
+        "a.yt-simple-endpoint.style-scope.ytd-toggle-button-renderer"
+      ),
+    ].slice(0, 2);
+
+    const [$likeButton] = likeButtons;
+    if (event.key == "q") {
+      $likeButton && $likeButton.click();
     }
-  }
-});
+  });
+};
